@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Retrieval-Augmented Generation (RAG) Applications<br>👯 I’m looking to collaborate on: AI/ML projects, Full-Stack Web Applications, Open Source contributions, and Computer Vision projects.<br>🤝 I’m looking for help with: Generative AI, Cloud Deployment (Azure/AWS), LLM applications, and scalable backend architecture.<br>🌱 I’m currently learning: Generative AI, Retrieval-Augmented Generation (RAG), Azure AI Services, FastAPI, and System Design.<br>💬 Ask me about: Java, Python, Data Structures & Algorithms, Machine Learning, Full-Stack Development, Git, GitHub, and AI projects.<br>⚡ Fun fact: I love turning innovative ideas into real-world applications and enjoy learning new technologies through hands-on projects.<br>
+🔭 I’m currently working on Retrieval-Augmented Generation (RAG) Applications<br>👯 I’m looking to collaborate on: AI/ML projects, Full-Stack Web Applications, Open Source contributions, and Computer Vision projects.<br>🤝 I’m looking for help with: Generative AI, Cloud Deployment (Azure/AWS), LLM applications, and scalable backend architecture.<br>🌱 I’m currently learning: Generative AI, Retrieval-Augmented Generation (RAG), Azure AI Services, FastAPI, and System Design.<br>💬 Ask me about: Java, Python, Data Structures & Algorithms, Machine Learning, Full-Stack Development, Git, GitHub, and AI projects.<br>⚡ Fun fact: I love turning innovative ideas into real-world applications and enjoy learning new technologies through hands-on projects.<br><br>My areas of interest include Artificial Intelligence, Generative AI, Computer Vision, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern web development. I enjoy working across the software development lifecycle, from designing intuitive user interfaces to developing scalable applications.<br>I am passionate about learning new technologies, solving challenging problems, and writing clean, maintainable code. Through academic and personal projects, I strive to strengthen my knowledge of software engineering principles and build applications that are both functional and user-focused.<br>I am always open to collaborating on innovative projects, contributing to open-source initiatives, and exploring emerging technologies in AI and software development.
 
 
 ## 🌐 Socials:
@@ -12,14 +12,8 @@
 ![](https://streak-stats.demolab.com/?user=poojithasree2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=poojithasree2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=poojithasree2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=poojithasree2&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://komarev.com/ghpvc/?username=poojithasree2&icon=0&color=0)](https://visitcount.itsvg.in)
